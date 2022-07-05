@@ -1,0 +1,15 @@
+{
+  "DatabaseSettings": {
+    "Sql": {
+      "DBProvider": "mssql",
+      "ConnectionString": "Data Source=.;Initial Catalog=dev_elearning_taphuan;TrustServerCertificate=True;MultipleActiveResultSets=True"
+    },
+    "Redis": {
+      "Name": "NetCDStore",
+      "Host": "10.3.11.128",
+      "Port": 2016,
+      "Database": 14,
+      "Password": "fdsf34@4563gd53SFKKJgjs"
+    }
+  }
+}

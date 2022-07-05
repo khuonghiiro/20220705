@@ -1,0 +1,336 @@
+{
+  "Configurations": {
+    "DataHome": {
+      "Settings": {
+        "BigThumb": "thumb_w/640/",
+        "SmallThumb": "thumb_w/320/",
+        "ZoomFrom64To40": "zoom/64_40/"
+      },
+      "HighLight": {
+        "Top": 9,
+        "TypeId": 5,
+        "TopExclusion": 0,
+        "ZoneId": 0
+      },
+      "TimeLine": {
+        "Top": 22
+      },
+      "LastestNews": {
+        "Top": 15,
+        "AttachToTimeLine": 1,
+        "TimeLinePosition": 8
+      },
+      "Thread": {
+        "Top": 6,
+        "Type": 1,
+        "ZoneId": 0,
+        "AttachToTimeLine": 0,
+        "TimeLinePosition": 18
+      },
+      "Caring": {
+        "AttachToTimeLine": 1,
+        "TimeLinePosition": 14
+      },
+      "DontForget": {
+        "AttachToTimeLine": 1,
+        "TimeLinePosition": 20
+      },
+      "ListNewsByZone": [
+        {
+          "Top": 3,
+          "TypeId": 4,
+          "ZoneId": 187,
+          "DisplayStyle": 2,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 3,
+          "TypeId": 4,
+          "ZoneId": 194,
+          "DisplayStyle": 2,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 3,
+          "TypeId": 4,
+          "ZoneId": 211,
+          "DisplayStyle": 2,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 3,
+          "TypeId": 4,
+          "ZoneId": 198,
+          "DisplayStyle": 2,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 4,
+          "TypeId": 4,
+          "ZoneId": 216,
+          "DisplayStyle": 2,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 3,
+          "TypeId": 4,
+          "ZoneId": 186,
+          "DisplayStyle": 2,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 4,
+          "TypeId": 4,
+          "ZoneId": 193,
+          "DisplayStyle": 2,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 3,
+          "TypeId": 4,
+          "ZoneId": 188,
+          "DisplayStyle": 3,
+          "AttachToTimeLine": 0
+        },
+        {
+          "Top": 4,
+          "TypeId": 4,
+          "ZoneId": 235,
+          "DisplayStyle": 3,
+          "AttachToTimeLine": 0
+        }
+      ],
+      "BoxVideo": {
+        "AttachToTimeLine": 0,
+        "TimeLinePosition": 20,
+        "Top": 1
+      }
+    },
+    "DataLastestNews": {
+      "Settings": {
+        "BigThumb": "zoom/640_400/",
+        "SmallThumb": "zoom/320_200/",
+        "ZoomTo200": "zoom/200_200/",
+        "ZoomFrom64To40": "zoom/64_40/"
+      },
+      "LastestNews": {
+        "PageIndex": 1,
+        "PageSize": 15
+      }
+    },
+    "DataMenu": {
+      "ListCategoriesBox": [
+        {
+          "Id": 187,
+          "Name": "Mobile",
+          "ShortURL": "mobile"
+        },
+        {
+          "Id": 194,
+          "Name": "Internet",
+          "ShortURL": "internet"
+        },
+        {
+          "Id": 211,
+          "Name": "Tin ICT",
+          "ShortURL": "tin-ict"
+        },
+        {
+          "Id": 198,
+          "Name": "Khám phá",
+          "ShortURL": "kham-pha"
+        },
+        {
+          "Id": 216,
+          "Name": "Trà đá công nghệ",
+          "ShortURL": "tra-da-cong-nghe"
+        },
+        {
+          "Id": 186,
+          "Name": "Thủ thuật",
+          "ShortURL": "thu-thuat"
+        },
+        {
+          "Id": 193,
+          "Name": "Apps - Games",
+          "ShortURL": "apps-games"
+        },
+        {
+          "Id": 188,
+          "Name": "Đồ chơi số",
+          "ShortURL": "do-choi-so"
+        },
+        {
+          "Id": 235,
+          "Name": "Sống",
+          "ShortURL": "song"
+        },
+        {
+          "Id": 0,
+          "Name": "Video",
+          "ShortURL": "Video"
+        }
+      ]
+    },
+    "DataZone": {
+      "Settings": {
+        "BigThumb": "thumb_w/640/",
+        "SmallThumb": "thumb_w/320/",
+        "ZoomTo200": "zoom/200_200/",
+        "ZoomFrom64To40": "zoom/64_40/"
+      },
+      "HighLight": {
+        "Top": 1,
+        "TypeId": 3,
+        "TopExclusion": 0,
+        "ZoneId": 10009
+      },
+      "TimeLine": {
+        "PageIndex": 1,
+        "PageSize": 15,
+        "ZoneId": 10009
+      }
+    },
+    "DataNews": {
+      "Settings": {
+        "BigThumb": "thumb_w/640/",
+        "SmallThumb": "thumb_w/320/",
+        "ZoomTo200": "zoom/200_200/",
+        "ZoomFrom64To40": "zoom/64_40/"
+      },
+      "News": {
+        "NewsId": "20170407103422671",
+        "TopNewsSameZone": 3
+      }
+    },
+    "DataTag": {
+      "Settings": {
+        "BigThumb": "thumb_w/640/",
+        "SmallThumb": "thumb_w/320/",
+        "ZoomFrom64To40": "zoom/64_40/"
+      },
+      "Tag": {
+        "Id": 13722,
+        "PageIndex": 1,
+        "PageSize": 20
+      }
+    },
+    "DataThread": {
+      "Settings": {
+        "BigThumb": "thumb_w/640/",
+        "SmallThumb": "thumb_w/320/"
+      },
+      "Thread": {
+        "PageIndex": 1,
+        "PageSize": 10,
+        "ThreadId": 71629
+      }
+    },
+    "DataNewsInTag": {
+      "News": {
+        "NewsId": "20170407103422671",
+        "Top": 3,
+        "SkipNewsId": ""
+      }
+    },
+    "DataVideoZone": {
+      "Settings": {
+        "BigThumb": "zoom/640_400/",
+        "SmallThumb": "zoom/320_200/",
+        "VideoLogoThumb": "thumb_w/200/"
+      },
+      "ZoneVideo": {
+        "ParentId": 0,
+        "Status": 1
+      }
+    },
+    "DataVideoInZone": {
+      "Settings": {
+        "BigThumb": "zoom/640_400/",
+        "SmallThumb": "zoom/320_200/",
+        "VideoLogoThumb": "thumb_w/200/"
+      },
+      "VideoInZone": {
+        "ZoneId": 82,
+        "PageIndex": 1,
+        "PageSize": 10
+      }
+    },
+    "DataVideoHot": {
+      "HotVideo": {
+        "Mode": 1,
+        "Status": 1,
+        "PageIndex": 1,
+        "PageSize": 10
+      }
+    },
+    "DataVideoLastest": {
+      "lastestVideo": {
+        "PageIndex": 1,
+        "PageSize": 10
+      }
+    },
+    "DataVideoPlayListInZone": {
+      "Settings": {
+        "BigThumb": "zoom/640_400/",
+        "SmallThumb": "zoom/320_200/",
+        "VideoLogoThumb": "thumb_w/200/"
+      },
+      "playListInZone": {
+        "ZoneId": 82,
+        "Mode": 1,
+        "Status": 1,
+        "PageIndex": 1,
+        "PageSize": 10
+      }
+    },
+    "DataVideoInPlayList": {
+      "Settings": {
+        "BigThumb": "zoom/640_400/",
+        "SmallThumb": "zoom/320_200/",
+        "VideoLogoThumb": "thumb_w/200/"
+      },
+      "VideoInPlayList": {
+        "PlayListId": 2,
+        "Top": 10
+      }
+    },
+    "DataVideo": {
+      "Settings": {
+        "BigThumb": "zoom/640_400/",
+        "SmallThumb": "zoom/320_200/",
+        "WebViewDomain": "app.genk.vn/app"
+      },
+      "Video": {
+        "VideoId": "154767",
+        "TopVideoSameZone": 5
+      }
+    },
+    "DataVideoOther": {
+      "OtherVideo": {
+        "VideoId": 154767,
+        "PageIndex": 1,
+        "PageSize": 5
+      }
+    },
+    "DataNotify": {
+      "Notify": {
+        "Top": 10,
+        "ChannelId": 2 //2-k14,8-soha,3-genk
+      }
+    },
+    "DataNewsRelationExtDetail": {
+      "Settings": {
+        "BigThumb": "zoom/640_400/",
+        "SmallThumb": "zoom/320_200/",
+        "ZoomTo200": "zoom/200_200/",
+        "ZoomFrom64To40": "zoom/64_40/"
+      },
+      "News": {
+        "DeviceId": "",
+        "NewsId": "",
+        "PageIndex": 1
+      }
+    }
+  }
+}

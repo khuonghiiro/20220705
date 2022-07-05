@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": ".NET 6.0 APP API",
+    "Version": "v1",
+    "Description": "API for application mobile",
+    "ContactName": "huanbd",
+    "ContactEmail": "huanbuidinh@channelvn.net",
+    "ContactUrl": "",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": ""
+  }
+}

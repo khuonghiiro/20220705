@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/API/bin/Debug/net6.0
+/API/Logs
+/API/obj
+/Application/bin/Debug/net6.0
+/Application/obj
+/Domain/bin/Debug/net6.0
+/Domain/obj
+/Infrastructure/bin/Debug/net6.0
+/Infrastructure/obj
+/.vs/APPAPI_GENK/FileContentIndex

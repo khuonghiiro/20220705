@@ -1,0 +1,8 @@
+{
+  "SecuritySettings": {
+    "ApiKey": {
+      "SecretKey": "gI8gH9tY8yK3sA4n",
+      "Enable": true
+    } 
+  }
+}
